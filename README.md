@@ -59,6 +59,6 @@ MIT License
 IssueやPull Requestでの提案をお待ちしています。
 
 
-著者
+著者 matsunami0429@gmail.com
 
 HARUSANプロジェクトチーム
